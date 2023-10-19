@@ -1,0 +1,52 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}
+
+#hero-msg h1, #hero-msg h4 {
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+}
+
+body {
+    background-color: #fcfbfb; 
+}
+
+header {
+    background-color: rgba(20, 30, 13, 0.7);
+}
+
+.icon {
+    width: 80px;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
